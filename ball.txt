@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-football
-ball2
-1
-=======
-baseball
-ball1
-ball2
->>>>>>> dev
